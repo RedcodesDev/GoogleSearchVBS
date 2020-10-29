@@ -1,4 +1,4 @@
-REM Definde Objects
+REM Define Objects
 set Suche = createobject("wscript.shell")
 set voice = createobject("Sapi.SpVoice")
 
